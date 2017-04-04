@@ -1,30 +1,3 @@
-
-
-var menu = {
-   "menu": [
-
-      {
-         "title": "education",
-         "link": "#educationH2"
-      },
-      {
-         "title": "work",
-         "link": "#workH2"
-      },
-      {
-         "title": "projects",
-         "link": "#projectsH2"
-      },
-      {
-         "title": "map",
-         "link": "#mapDiv"
-      },
-
-   ]
-};
-
-
-
 /*
 
 This file contains all of the code running in the background that makes resumeBuilder.js possible. We call these helper functions because they support your code in this course.
